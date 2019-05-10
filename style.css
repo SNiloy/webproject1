@@ -23,7 +23,7 @@ header
 
 .main-nav li
 {
-	display: inline-block;
+	display: inline;
 }
 
 .main-nav li a 
@@ -35,10 +35,7 @@ header
 	font-size: 15px;
 }
 
-.main-nav li.active a
-{
-	border: 1px solid white;
-}
+
 
 .main-nav li a:hover
 {
@@ -47,7 +44,7 @@ header
 
 .logo img
 {
-	width: 150px;
+	width: 250px;
 	height: auto;
 	float: left;
 	
